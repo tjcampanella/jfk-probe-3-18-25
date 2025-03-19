@@ -3,6 +3,6 @@
 ## Quickstart
 Takes approximately 1min to download all 1124 files on my M1 Macbook Pro.
 
-'''bash
-cargo run --release
-'''
+```bash
+$ cargo run --release
+```
